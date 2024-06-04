@@ -1,3 +1,3 @@
 # test-repo
 
-This is a new line in another branch foo.
+That is a new line in the main branch.
