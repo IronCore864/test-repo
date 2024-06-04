@@ -1,2 +1,2 @@
-def test(a: str):
+def test(a):
     return a
